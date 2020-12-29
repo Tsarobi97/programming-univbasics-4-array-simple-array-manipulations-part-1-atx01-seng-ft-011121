@@ -14,7 +14,7 @@ end
 
 
 def using_pop(array)
-  using_pop_array = [a, b, c]
+  using_pop_array = ["a", "b", "c"]
   using_pop_array.pop()
 end
 
