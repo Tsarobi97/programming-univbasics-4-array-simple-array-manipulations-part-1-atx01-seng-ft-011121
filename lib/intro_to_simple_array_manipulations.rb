@@ -14,7 +14,6 @@ end
 
 
 def using_pop(array)
-  array = ["a", "b", "Antarctica"]
   array.pop()
 end
 
