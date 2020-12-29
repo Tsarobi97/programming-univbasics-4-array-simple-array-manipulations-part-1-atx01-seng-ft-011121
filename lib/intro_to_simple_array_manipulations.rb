@@ -14,7 +14,7 @@ end
 
 
 def using_pop(array)
-  k_array.pop()
+  using_pop_array.pop()
 end
 
 
